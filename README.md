@@ -114,3 +114,9 @@ All actions are local, visible, and reversible.
 
 At any time, users can restore the system to its previous state:
 
+
+Additional Information:
+# 🧑‍💼What to do for privacy and full control in Windows
+- What is Recall and How to Close It? What are its Effects on Privacy?
+- <img width="685" height="118" alt="image" src="https://github.com/user-attachments/assets/843b8a47-246f-44e4-82f8-84568cfc88bb" />
+
