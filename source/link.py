@@ -1,0 +1,1 @@
+tor_checker_url = 'https://check.torproject.org/api/ip'
