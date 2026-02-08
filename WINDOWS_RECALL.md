@@ -5,4 +5,4 @@
 https://www.youtube.com/watch?v=uk2Xy92vzFg
 
 - We don't want our computer to communicate with a server without our knowledge. 
-We also don't want artificial intelligence on our machine for privacy reasons, like Copilot. But if you say that using artificial intelligence is perfectly valid today and that they really do a good job, the models are being updated and multiplying day by day, which means more data and more value. 
+We also don't want artificial intelligence on our machine for privacy reasons, like  *Copilot.* But if you say that using artificial intelligence is perfectly valid today and that they really do a good job, the models are being updated and multiplying day by day, which means more data and more value. 
