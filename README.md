@@ -61,7 +61,6 @@ Optional network actions include:
 
 - Disabling network interfaces
 - Flushing DNS and ARP caches
-- Disabling IPv6
 - Randomizing MAC address (offline only)
 - Restoring all settings after use
 
